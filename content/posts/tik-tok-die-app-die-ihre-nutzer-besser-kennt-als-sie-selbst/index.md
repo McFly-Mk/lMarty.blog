@@ -1,5 +1,5 @@
 +++
-title = "Tik Tok: die App die ihre Nutzer besser kennt als sie selbst"
+title = "TikTok: die App die ihre Nutzer besser kennt als sie selbst"
 date = "2023-05-08"
 draft = false
 pinned = false
